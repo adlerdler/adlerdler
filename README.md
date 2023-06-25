@@ -1,5 +1,11 @@
 ### Hello, welcome to my GItHub repository 👋
 
+### You can call me the following 3 names
+1. Adlerian
+2. Clumsy clods
+3. adlerdler
+
+### But See Spring is my studio name
 <!--
 **adlerdler/adlerdler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
