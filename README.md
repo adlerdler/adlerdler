@@ -39,5 +39,3 @@ Here are some ideas to get you started:
 ## 结语
 
 我热爱前端开发并且努力跟进行业的变化和发展。我相信在大家的共同努力下，我们一定能够创造出最好的产品，快速推动公司的发展。谢谢你对我的关注！
-
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
