@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 - 🔭 I am currently working on intelligent AI tools or applets that can help blind or deaf people
 - 🌱 I’m currently learning : data analysis  、python 、New hacking techniques、Chinese Metaphysics 、Global History 、Other weird stuff
 - 👯 I’m looking to collaborate on 
-- 🤔 I’m looking for help with ：
+- 🤔 I’m looking for help with :
 - 1. A position as a front-end development engineer in Shenzhen, China.
+  2. A beautiful girlfriend, I hope she is Yang Liu Min in Shantou, China
 - 💬 Ask me about ...
 - 📫 How to reach me: adlerian@adlerian.xyz
 - 😄 Pronouns: ...
