@@ -1,3 +1,18 @@
+```tes
+                    / 
+               ,.. /  
+             ,'   ';  
+  ,,.__    _,' /';  . 
+ :','  ~~~~    '. '~  
+:' (NO!)   bug   )::, 
+'. '. .=----=..-~  .;'
+ '  ;'  ::   ':.  '"  
+   (:   ':    ;)      
+    \\   '"  ./       
+     '"      '"       
+```
+
+
 ### Hello, welcome to my GItHub repository 👋
 
 ### You can call me the following 3 names
