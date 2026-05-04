@@ -1,14 +1,14 @@
-<span id="readme-top"></span>
-
-# Hello, welcome to my GItHub repository 👋
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&multiline=true&width=720&height=110&lines=Hi%2C+I%27m+Tai+Y%C3%BCn-chieh;NO+unexpected+bugs+%F0%9F%90%9B;Ship+%E2%80%A2+Refactor+%E2%80%A2+Learn;Building+reliable+software" alt="typing intro" />
 
 <br/>
+<br/>
 
-<img src="https://skillicons.dev/icons?i=html,ts,js,php,py,git,dart&theme=dark&perline=7" alt="skills" /><img src="https://skillicons.dev/icons?i=github,docker,vscode,linux,vue,react,laravel,nodejs,scss,pinia,nginx,flutter,cloudflare,aws&theme=dark&perline=14" alt="skills" />
+<img src="https://skillicons.dev/icons?i=html,ts,js,php,py,git,dart&theme=dark&perline=7" alt="skills" /><img src="https://skillicons.dev/icons?i=github,docker,vscode,linux,vue,react,laravel,nodejs,less,tailwindcss,scss,pinia,nginx,flutter,cloudflare,aws&theme=dark&perline=16" alt="skills" />
+
+<br/>
 
 <p>
   <strong>English</strong> |
@@ -28,9 +28,8 @@ Welcome to my GitHub profile. I write code, squash bugs, and like thinking probl
   <img src="https://raw.githubusercontent.com/adlerdler/adlerdler/HEAD/assets/bug-ascii.svg" alt="ASCII bug art (animated)" width="440" />
 </div>
 
----
 
-## About me
+## About
 
 - I care about **maintainability**: clear structure, readable commits, and reproducible bug reports.
 - I stay curious about new tech, but I care more about **using the right tool for the job** than chasing stacks.
@@ -63,7 +62,7 @@ Welcome to my GitHub profile. I write code, squash bugs, and like thinking probl
 Issues and PRs are welcome.
 
 - Email: *adlerdecht@gmail.com*
-- Web: *https://a1l.xyz*
+- Web: *https://www.a1l.xyz*
 
 ---
 
