@@ -13,7 +13,7 @@
 我写代码、修 bug，也喜欢把事情想清楚再动手。**「没有意想不到的 bug」** 对我来说是比彩蛋更值得开心的成就感。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/adlerdler/adlerdler/main/assets/bug-ascii.svg" alt="ASCII bug art (animated)" width="440" />
+  <img src="assets/bug-ascii.svg" alt="ASCII bug art (animated)" width="440" />
 </div>
 
 ---
