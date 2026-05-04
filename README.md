@@ -6,7 +6,8 @@
 <br/>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=html,ts,js,php,py,git,dart&theme=dark&perline=7" alt="skills" /><img src="https://skillicons.dev/icons?i=github,docker,vscode,linux,vue,react,laravel,nodejs,less,tailwindcss,scss,pinia,nginx,flutter,cloudflare,aws&theme=dark&perline=16" alt="skills" />
+<img src="https://skillicons.dev/icons?i=html,css,ts,js,php,py,c,git,dart&theme=dark&perline=9" alt="skills" /><img src="https://skillicons.dev/icons?i=github,gitlab,k8s,docker,vscode,linux,windows,ubuntu,redhat,debian,cloudflare,aws,figma,vue,react,laravel,nodejs,flutter,less,tailwindcss,scss,next,mongodb,mysql,pinia,nginx&theme=dark&perline=13" alt="skills" />
+<!-- <img src="https://skillicons.dev/icons?i=spotify,twitter,instagram,linkedin,notion,obsidian,pycharm,gmail,ps,wordpress,discord,postman&theme=dark&perline=13" alt="skills" /> -->
 
 <br/>
 
